@@ -1,4 +1,4 @@
-# classification
+# Classification
 This code snippet demonstrates the usage of TensorFlow and Keras libraries to create and train a neural network model for a binary classification task.
 Overall, this code demonstrates the process of building a neural network model, compiling it, training it on a dataset, and evaluating its performance for a binary classification task.
 
